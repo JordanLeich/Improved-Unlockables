@@ -60,5 +60,7 @@ else
      unlockCharacter("blob_hero", "" )
      waittimed ( 0.100 )
      unlockCharacter("pheonix", "" )
+     waittimed ( 0.100 )
+     unlockCharacter("nico", "")
 endif
 

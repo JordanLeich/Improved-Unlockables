@@ -88,6 +88,8 @@ if health <= 1
           waittimed ( 0.100 )
           unlockCharacter("Leader", "" )
           waittimed ( 0.100 )
+          unlockCharacter("blackboltdlc", "")
+          waittimed ( 0.100 )
           startCharConversation("act4/shiar/shiar4/4_shiar4_030", "IRONMAN", "act4/shiar/shiar4/4_shiar4_032" )
      endif
 endif
