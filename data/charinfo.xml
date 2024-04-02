@@ -1,0 +1,174 @@
+XMLB charinfo {
+   hero {
+   name = BlackPanther ;
+   }
+
+   hero {
+   name = Blade ;
+   }
+
+   hero {
+   name = CaptainAmerica ;
+   start_game = e3,normal,demo1,demo2 ;
+   unlocked = normal, demo2 demo1 ;
+   }
+
+   hero {
+   name = Daredevil ;
+   }
+
+   hero {
+   name = Deadpool ;
+   }
+
+   hero {
+   name = DrStrange ;
+   }
+
+   hero {
+   name = Elektra ;
+   }
+
+   hero {
+   name = GhostRider ;
+   }
+
+   hero {
+   name = HumanTorch ;
+   unlocked = normal,demo2 demo1 ;
+   }
+
+   hero {
+   name = Iceman ;
+   }
+
+   hero {
+   name = Ironman ;
+   }
+
+   hero {
+   name = InvisibleWoman ;
+   }
+
+   hero {
+   name = LukeCage ;
+   unlocked = normal ;
+   }
+
+   hero {
+   name = MoonKnight ;
+   unlocked = normal ;
+   }
+
+   hero {
+   name = DefaultMan ;
+   unlocked = normal ;
+   }
+
+   hero {
+   name = MrFantastic ;
+   unlocked = normal,demo2 demo1 ;
+   }
+
+   hero {
+   name = NickFury ;
+   }
+
+   hero {
+   name = SilverSurfer ;
+   }
+
+   hero {
+   name = SpiderWoman ;
+   }
+
+   hero {
+   name = Spiderman ;
+   start_game = e3,normal,demo1,demo2 ;
+   unlocked = normal,demo2 demo1 ;
+   }
+
+   hero {
+   name = Storm ;
+   }
+
+   hero {
+   name = Thing ;
+   }
+
+   hero {
+   name = Thor ;
+   start_game = e3,normal,demo1,demo2 ;
+   unlocked = normal,demo2 demo1 ;
+   }
+
+   hero {
+   name = Warbird ;
+   unlocked = normal ;
+   }
+
+   hero {
+   name = Wolverine ;
+   start_game = e3,normal,demo1,demo2 ;
+   unlocked = normal,demo2 demo1 ;
+   }
+
+   hero {
+   name = CaptainMarvel ;
+   }
+
+   hero {
+   name = Hawkeye ;
+   unlocked = normal ;
+   }
+
+   hero {
+   name = Hulk ;
+   }
+
+   hero {
+   name = Colossus ;
+   }
+
+   hero {
+   name = Cyclops ;
+   }
+
+   hero {
+   name = Nightcrawlerdlc ;
+   }
+
+   hero {
+   name = Magneto ;
+   }
+
+   hero {
+   name = Sabretooth ;
+   }
+
+   hero {
+   name = Blackwidowv ;
+   }
+
+   hero {
+   name = Ronin ;
+   }
+
+   hero {
+   name = Venom ;
+   }
+
+   hero {
+   name = Doomdlc ;
+   }
+
+   hero {
+   name = ironfist ;
+   }
+
+   hero {
+   name = longshot ;
+   }
+
+}
+
