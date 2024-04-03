@@ -48,4 +48,6 @@ waittimed ( 0.100 )
 unlockCharacter("shokpl", "" )
 waittimed ( 0.100 )
 unlockCharacter("shokrdlc", "" )
+waittimed ( 0.100 )
+unlockCharacter("Electro", "" )
 

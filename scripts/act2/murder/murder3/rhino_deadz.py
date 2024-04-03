@@ -44,3 +44,10 @@ if rhino_check == 0
 endif
 waittimed ( 0.100 )
 unlockCharacter("howard", "" )
+waittimed ( 0.100 )
+unlockCharacter("Rhino_Hero", "" )
+waittimed ( 0.100 )
+unlockCharacter("dococ", "" )
+waittimed ( 0.100 )
+unlockCharacter("dust", "" )
+

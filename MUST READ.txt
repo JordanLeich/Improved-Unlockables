@@ -19,8 +19,7 @@ Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his
 
 --- v15.0 CHANGES ---
 * She-Hulk and A-Bomb unlock now after the wrecking crew instead of defeating Titannus
-* New unlockable characters: Monica Rambeau, Jessica Jones, Nova, Black Bolt, Howard, Nico Minoru, Squirrel Girl, and Wasp
+* New unlockable characters: Rhino, Doctor Octopus, Dust, Electro, Monica Rambeau, Jessica Jones, Nova, Black Bolt, Howard, Nico Minoru, Squirrel Girl, and Wasp
 * Black Widow now unlocks from completing Weasel's questline instead of defeating Fin Fang Foom.
 * New achievement for completing Weasel's questline
 * Shocker now unlocks from defeating Shocker instead of Grey Gargoyle
-* 
