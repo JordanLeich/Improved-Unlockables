@@ -3,6 +3,8 @@
 setDefaultTarget("" )
 setGameFlag("bosses", 25, 1 )
 waittimed ( 0.100 )
+unlockCharacter("nova", "" )
+waittimed ( 0.100 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/gladiator_achievement" )
 awardAchievement("", "defeated_gladiator" )
