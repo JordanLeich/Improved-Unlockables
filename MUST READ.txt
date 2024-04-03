@@ -1,4 +1,4 @@
-Improved Unlockables by: Rampage, Metal Venger1, ak2yny for all of his help and advice, Enchlore for Hank Pym unlockable, Huge thanks to all of the X Voice contributors and the modding community as I have included many modded characters from MarvelMods to be unlockable with this mod.
+Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his help and advice, Enchlore for Hank Pym unlockable, Huge thanks to all of the X Voice contributors and the modding community as I have included many modded characters from MarvelMods to be unlockable with this mod.
 
 --- IMPORTANT ---
 1. It is worth noting that this mod is compatible with OCP and 50/36 Roster hack mods. Naturally, with these mods installed, your game will automatically unlock all characters but this mod (Improved Unlockables) reverses that so that you can unlock many vanilla/modded characters through story progression.
@@ -22,3 +22,5 @@ Improved Unlockables by: Rampage, Metal Venger1, ak2yny for all of his help and 
 * New unlockable characters: Monica Rambeau, Jessica Jones, Nova, Black Bolt, Howard, Nico Minoru, Squirrel Girl, and Wasp
 * Black Widow now unlocks from completing Weasel's questline instead of defeating Fin Fang Foom.
 * New achievement for completing Weasel's questline
+* Shocker now unlocks from defeating Shocker instead of Grey Gargoyle
+* 

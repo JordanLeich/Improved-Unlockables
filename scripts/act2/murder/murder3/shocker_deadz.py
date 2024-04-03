@@ -44,3 +44,8 @@ if shock_check == 0
 endif
 waittimed ( 0.100 )
 unlockCharacter("jessica", "" )
+waittimed ( 0.100 )
+unlockCharacter("shokpl", "" )
+waittimed ( 0.100 )
+unlockCharacter("shokrdlc", "" )
+
