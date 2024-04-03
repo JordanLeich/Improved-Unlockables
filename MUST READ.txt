@@ -18,5 +18,7 @@ Improved Unlockables by: Rampage, Metal Venger1, ak2yny for all of his help and 
 3. This mod MUST be placed below OCP, any roster hacks, and Outsider's EXG mod in MO2.
 
 --- v15.0 CHANGES ---
-* She-Hulk and A-Bomb unlock now after the wrecking crew instead of Titannus
-* 
+* She-Hulk and A-Bomb unlock now after the wrecking crew instead of defeating Titannus
+* New unlockable characters: Monica Rambeau, Jessica Jones, Nova, Black Bolt, Howard, Nico Minoru, Squirrel Girl, and Wasp
+* Black Widow now unlocks from completing Weasel's questline instead of defeating Fin Fang Foom.
+* New achievement for completing Weasel's questline
