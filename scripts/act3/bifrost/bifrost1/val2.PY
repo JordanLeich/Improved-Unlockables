@@ -7,4 +7,7 @@ waittimed ( 0.100 )
 unlockCharacter("valk", "" )
 waittimed ( 0.100 )
 unlockCharacter("valk2", "" )
+waittimed ( 0.100 )
+sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
+createPopupDialogXml("dialogs/special/dragonfang_achievement" )
 
