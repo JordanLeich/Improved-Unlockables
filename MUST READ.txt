@@ -18,4 +18,4 @@ Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his
 3. This mod MUST be placed below OCP, any roster hacks, and Outsider's EXG mod in MO2.
 
 --- v15.5 CHANGES ---
-* Added a total of 8 new achievements.
+* Added a total of 11 new achievements.
