@@ -17,5 +17,5 @@ Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his
 2. Open the Mod Organizer 2 Install Method folder and Install the Improved Unlockables .rar file into MO2.
 3. This mod MUST be placed below OCP, any roster hacks, and Outsider's EXG mod in MO2.
 
---- v15.5 CHANGES ---
-* Added a total of 11 new achievements.
+--- v15.6 CHANGES ---
+* Fixed a game crash when picking up the Mutant Amplifier

@@ -9,5 +9,4 @@ setEpilogue(11, 1 )
 waittimed ( 0.100 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/nullifier_achievement" )
-waittimed ( 0.100 )
 
