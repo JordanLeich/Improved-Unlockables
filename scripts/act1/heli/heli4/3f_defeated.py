@@ -19,6 +19,8 @@ endif
 
 unlockCharacter("Taskmaster", "" )
 waittimed ( 0.100 )
+unlockCharacter("storm", "" )
+waittimed ( 0.100 )
 unlockCharacter("sable", "" )
 waittimed ( 0.100 )
 unlockCharacter("ted", "" )

@@ -3,8 +3,6 @@
 waittimed ( 0.100 )
 unlockCharacter("drstrange", "" )
 waittimed ( 0.100 )
-unlockCharacter("storm", "" )
-waittimed ( 0.100 )
 unlockCharacter("magneto", "" )
 waittimed ( 0.100 )
 unlockCharacter("quicksilver", "" )
