@@ -34,6 +34,8 @@ if check == 1
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/asgardarmor_achievement" )
      waittimed ( 0.100 )
+     unlockCharacter("hercules", "" )
+     waittimed ( 0.100 )
      removeBolton("_ACTIVATOR_", 0 )
      startConversation("act3/asgard/asgard3/3_asgard3_140" )
 else

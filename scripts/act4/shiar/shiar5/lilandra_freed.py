@@ -14,6 +14,8 @@ waittimed ( 0.100 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/lilandra_achievement" )
 waittimed ( 0.100 )
+unlockCharacter("uatu", "" )
+waittimed ( 0.100 )
 playanim (  "EA_IDLE1", "lilandra", "NONE", "" )
 startConversation("act4/shiar/shiar5/4_shiar5_040" )
 

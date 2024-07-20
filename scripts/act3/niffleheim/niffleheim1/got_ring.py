@@ -16,6 +16,10 @@ if key == 1
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/vollaring_achievement" )
      waittimed ( 0.100 )
+     unlockCharacter("VollaDLC", "" )
+     waittimed ( 0.100 )
+     unlockCharacter("Volla", "" )
+     waittimed ( 0.100 )
      startCharConversation("act3/niffleheim/niffleheim1/3_niffleheim1_050", "blade", "act3/niffleheim/niffleheim1/3_niffleheim1_052" )
 else
      display ( "This shouldn't happen." )
