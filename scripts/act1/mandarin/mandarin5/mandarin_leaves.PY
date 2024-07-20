@@ -55,17 +55,6 @@ unlockCharacter("sabretooth", "" )
 waittimed ( 0.100 )
 unlockCharacter("iceman", "" )
 waittimed ( 0.100 )
-
-daredevil = isActorOnTeam("Daredevil" )
-if daredevil == 0
-    waittimed ( 0.100 )
-    unlockCharacter("daredevil", "" )
-    waittimed ( 0.100 )
-    sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
-    createPopupDialogXml("dialogs/special/daredevil_achievement" )
-    waittimed ( 0.100 )
-endif
-
 unlockCharacter("punisher", "" )
 waittimed ( 0.100 )
 unlockCharacter("pun2099", "" )

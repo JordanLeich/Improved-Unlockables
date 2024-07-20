@@ -29,17 +29,6 @@ unlockCharacter("scorp", "" )
 waittimed ( 0.100 )
 unlockCharacter("x23", "" )
 waittimed ( 0.100 )
-
-blackpanther = isActorOnTeam("Blackpanther" )
-if blackpanther == 0
-    waittimed ( 0.100 )
-    unlockCharacter("blackpanther", "" )
-    waittimed ( 0.100 )
-    sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
-    createPopupDialogXml("dialogs/special/blackpanther_achievement" )
-    waittimed ( 0.100 )
-endif
-   
 unlockCharacter("oldmanlogan", "" )
 waittimed ( 0.100 )
 unlockCharacter("weaponx", "" )
