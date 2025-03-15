@@ -3,6 +3,8 @@
 waittimed ( 0.100 )
 unlockCharacter("captainmarvel", "" )
 waittimed ( 0.100 )
+unlockCharacter("warbird", "" )
+waittimed ( 0.100 )
 unlockCharacter("sskrull", "" )
 setGameFlag("s2_join", 1, 1 )
 spawn("paibok1", "hero_paibok", "hero_villian", " 0.000 0.000 0.000 ", " 0.000 0.000 0.000 " )
