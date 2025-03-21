@@ -1,7 +1,5 @@
 startMovie("cine01","waitSignal")
 waitsignal("waitSignal")
-unlockCharacter("hawkeye", "" )
-unlockCharacter("moonknight", "" )
 loadZoneAddTeam("act1/heli/heli1", "link_heli1" )
 extractionUnlock("act1/stark/stark1" )
 extractionUnlock("act1/heli/heli1" )
