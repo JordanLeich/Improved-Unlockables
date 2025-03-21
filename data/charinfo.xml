@@ -35,7 +35,6 @@ XMLB charinfo {
 
    hero {
    name = HumanTorch ;
-   unlocked = normal,demo2 demo1 ;
    }
 
    hero {
@@ -52,12 +51,10 @@ XMLB charinfo {
 
    hero {
    name = LukeCage ;
-   unlocked = normal ;
    }
 
    hero {
    name = MoonKnight ;
-   unlocked = normal ;
    }
 
    hero {
@@ -67,7 +64,6 @@ XMLB charinfo {
 
    hero {
    name = MrFantastic ;
-   unlocked = normal,demo2 demo1 ;
    }
 
    hero {
@@ -104,7 +100,6 @@ XMLB charinfo {
 
    hero {
    name = Warbird ;
-   unlocked = normal ;
    }
 
    hero {
@@ -119,7 +114,6 @@ XMLB charinfo {
 
    hero {
    name = Hawkeye ;
-   unlocked = normal ;
    }
 
    hero {
