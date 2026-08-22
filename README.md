@@ -1,6 +1,6 @@
 Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his help and advice, Enchlore for Hank Pym unlockable, Huge thanks to all of the X Voice contributors and the modding community as I have included many modded characters from MarvelMods to be unlockable with this mod.
 
-All Unlockable Characters & Achievements List - https://onedrive.live.com/view.aspx?resid=22A606BAC2080A40%219056&authkey=!AJxRtAc1J0p8PDU
+[All Unlockable Characters & Achievements List](https://1drv.ms/x/c/22a606bac2080a40/IQBACgjCugamIIAiYCMAAAAAAfmidBzO_6EoQZXam47SVqY?e=45ZHBE)
 
 --- IMPORTANT ---
 1. It is worth noting that this mod is compatible with OCP and 50/36 Roster hack mods. Naturally, with these mods installed, your game will automatically unlock all characters but this mod (Improved Unlockables) reverses that so that you can unlock many vanilla/modded characters through story progression.
