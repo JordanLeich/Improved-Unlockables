@@ -4,7 +4,7 @@ Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his
 
 --- IMPORTANT ---
 1. It is worth noting that this mod is compatible with OCP and 50/36 Roster hack mods. Naturally, with these mods installed, your game will automatically unlock all characters but this mod (Improved Unlockables) reverses that so that you can unlock many vanilla/modded characters through story progression.
-2. This mod is compatible with Outsider's EXG mod. Install Improved Unlockables after installing EXG, if using Mod Organizer 2 then place Improved Unlockables below EXG.
+2. This mod is not compatible with Outsider's EXG mod.
 3. If you don't want your characters locked but still want unlockable achievements, use the unlock all characters cheat code.
 4. It is mandatory to have Cap, Thor, Spidey, and Wolverine in your roster or else this mod will not work.
 
@@ -17,4 +17,3 @@ Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his
 --- MOD ORGANIZER 2 INSTALL METHOD ---
 1. Open the Reset all unlocks file, then open the Achievement sound picker file if you want to change achievement sounds.
 2. Open the Mod Organizer 2 Install Method folder and Install the Improved Unlockables .rar file into MO2.
-3. This mod MUST be placed below OCP, any roster hacks, and Outsider's EXG mod in MO2.
