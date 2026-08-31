@@ -3,6 +3,7 @@
 setGameFlag("bosses", 31, 1 )
 objective ( "Doom_Obj10",  "EOBJCMD_COMPLETE" )
 waittimed ( 0.100 )
+awardXPToPlayable(10000 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/doom_achievement" )
 waittimed ( 0.100 )

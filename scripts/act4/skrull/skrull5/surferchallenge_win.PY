@@ -64,6 +64,7 @@ if beams == 3
      waittimed ( 4.000 )
      spawn("treasurespot", "Galactus_treasure", "treasure", " 0.000 0.000 0.000 ", " 0.000 0.000 0.000 " )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/galactus_achievement" )
      waittimed ( 0.100 )

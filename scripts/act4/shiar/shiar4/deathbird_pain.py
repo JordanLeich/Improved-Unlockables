@@ -69,6 +69,8 @@ if health <= 1
           act("teleporter_loop", "teleporter_loop" )
           setEnable("link_shiar5", "TRUE" )
           # ( "enable zone_link to shair5 so the heroes can follow Deathbird" )
+          waittimed ( 0.100 )
+          awardXPToPlayable(5000 )
           sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
           createPopupDialogXml("dialogs/special/deathbird_achievement" )
           waittimed ( 0.100 )

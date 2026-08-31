@@ -3,6 +3,7 @@
 name = getName("_ACTIVATOR_" )
 if name == "thor"
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/thorhammer_achievement" )
      waittimed ( 0.100 )

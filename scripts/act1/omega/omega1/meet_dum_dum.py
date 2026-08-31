@@ -30,6 +30,7 @@ if isWolvieHere == 1
      setWaypointPath("_HERO3_", "", 1 )
      setWaypointPath("_HERO4_", "", 1 )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/wolverinedugan_achievement" )
      waittimed ( 0.100 )

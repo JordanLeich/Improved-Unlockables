@@ -63,6 +63,8 @@ if wins == 4
      setEnable("exit_link", "TRUE" )
      setMusicOverride("", 1.000 )
      remove ( "mandoor", "mandoor" )
+     waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/kraken_achievement" )
      waittimed ( 0.100 )

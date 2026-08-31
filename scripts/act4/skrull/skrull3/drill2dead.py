@@ -5,6 +5,7 @@ drills = getObjective("Skrull_Obj20", "COUNT" )
 if drills == 2
      objective ( "Skrull_Obj20",  "EOBJCMD_COMPLETE" )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/skrulldrills_achievement" )
      waittimed ( 0.100 )

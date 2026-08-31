@@ -14,6 +14,7 @@ inducer = getObjective("atlantis_obj30", "COMPLETE" )
 if inducer == 1
      # ( "all inducers are destroyed--celebrate with a victory conversation" )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/sonic_emitters_achievement" )
      waittimed ( 0.100 )

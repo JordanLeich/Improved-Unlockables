@@ -9,6 +9,7 @@ if mephisto_intro_conv == 0
      magneto = isActorOnTeam("Magneto" )
      if magneto == 1
     waittimed ( 0.100 )
+    awardXPToPlayable(5000 )
     sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
     createPopupDialogXml("dialogs/special/magneto_talk_achievement" )
     waittimed ( 0.100 )

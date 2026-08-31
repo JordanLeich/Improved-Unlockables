@@ -2,6 +2,7 @@
 # ( "beat ymir" )
 setDefaultTarget("" )
 waittimed ( 0.100 )
+awardXPToPlayable(5000 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/ymir_achievement" )
 awardAchievement("", "defeated_ymir" )

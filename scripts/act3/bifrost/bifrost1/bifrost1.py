@@ -3,6 +3,7 @@
 cameraSetClipPlane(17000.000 )
 bi1_3 = getObjective("bifrost_obj20", "COMPLETE" )
 waittimed ( 0.100 )
+awardXPToPlayable(5000 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/dragonfang_achievement" )
 waittimed ( 0.100 )

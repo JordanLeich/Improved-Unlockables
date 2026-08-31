@@ -9,6 +9,7 @@ cameraFocusToEntity("sp_mysterio_real", 350.000, 45.000, 0.000, 2.000 )
 waittimed ( 2.000 )
 isSpideyhere = isActorOnTeam("spiderman" )
 if isSpideyhere == 1
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/spidermanmysterio_achievement" )
      waittimed ( 0.100 )

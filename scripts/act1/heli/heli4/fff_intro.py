@@ -20,6 +20,7 @@ if met_fff == 0
      endCutScene("FALSE", "FALSE" )
      magneto = isActorOnTeam("Magneto" )
      if magneto == 1
+        awardXPToPlayable(5000 )
         sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
         createPopupDialogXml("dialogs/special/magnetofoom_achievement" )
         waittimed ( 0.100 )

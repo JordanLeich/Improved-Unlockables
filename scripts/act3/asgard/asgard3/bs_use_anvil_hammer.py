@@ -31,6 +31,7 @@ if check == 1
      setEnable("trig_cool_item", "TRUE" )
      # ( "inform the player a cool item has been crafted" )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/asgardarmor_achievement" )
      waittimed ( 0.100 )

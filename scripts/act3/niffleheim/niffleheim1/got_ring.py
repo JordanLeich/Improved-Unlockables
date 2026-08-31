@@ -13,6 +13,7 @@ if key == 1
      waittimed ( 0.250 )
      fade("volla", 0.000, 1.000, "FALSE" )
      waittimed ( 1.000 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/vollaring_achievement" )
      waittimed ( 0.100 )

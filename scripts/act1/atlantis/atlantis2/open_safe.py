@@ -17,6 +17,7 @@ else
      waittimed ( 0.100 )
      unlockCharacter("crystaldlc", "" )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/atlantis_chest_achievement" )
      # ( "PERSISTENCE--indicate safe has been opened" )

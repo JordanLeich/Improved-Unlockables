@@ -9,6 +9,7 @@ else
      remove ( "horn_conv_trig", "horn_conv_trig" )
      setGameFlag("asgard4", 16, 1 )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/horn_achievement" )
      waittimed ( 0.100 )

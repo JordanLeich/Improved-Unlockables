@@ -9,6 +9,7 @@ setGameFlag("heli2", 7, 1 )
 isHere = isActorOnTeam("elektra" )
 if isHere == 1
      # ( "Play this conversation if elektra is on the team" )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/elektrabullseye_achievement" )
      waittimed ( 0.100 )
@@ -17,6 +18,7 @@ else
      isHere = isActorOnTeam("daredevil" )
      if isHere == 1
           # ( "Play this conversation if Elektra not on the team, But DD IS" )
+          awardXPToPlayable(5000 )
           sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
           createPopupDialogXml("dialogs/special/daredevilbullseye_achievement" )
           waittimed ( 0.100 )

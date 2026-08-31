@@ -13,6 +13,7 @@ else
      # ( "all souls are dead, he can die now." )
      setMusicOverride("", 1.000 )
      waittimed ( 0.100 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/blackheart_achievement" )
      awardAchievement("", "defeated_blackheart" )

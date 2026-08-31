@@ -2,6 +2,7 @@
 # ( "Loki 1 dies" )
 # ( "kill all frost giants" )
 waittimed ( 0.100 )
+awardXPToPlayable(5000 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/loki2_achievement" )
 waittimed ( 0.100 )

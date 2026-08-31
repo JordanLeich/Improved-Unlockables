@@ -66,6 +66,7 @@ if beat == 0
           DoomIsHere = isActorOnTeam("doomdlc" )
 	  if DoomIsHere == 1
             waittimed ( 0.100 )
+            awardXPToPlayable(10000 )
             sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
             createPopupDialogXml("dialogs/special/doom_talk_achievement" )
             waittimed ( 0.100 )

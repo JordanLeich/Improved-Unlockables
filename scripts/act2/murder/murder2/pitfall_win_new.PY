@@ -40,6 +40,7 @@ if check_pitfall == 0
      magneto = isActorOnTeam("Magneto" )
      if cyclops == 1
           waittimed ( 0.100 )
+          awardXPToPlayable(5000 )
           sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
           createPopupDialogXml("dialogs/special/cyclops_talk_achievement" )
           waittimed ( 0.100 )

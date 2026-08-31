@@ -17,6 +17,7 @@ if beatim == 0
           Sabretooth = isActorOnTeam("Sabretooth" )
 	  if Sabretooth == 1
         waittimed ( 0.100 )
+        awardXPToPlayable(5000 )
         sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
         createPopupDialogXml("dialogs/special/sabretooth_gladiator_achievement" )
         waittimed ( 0.100 )

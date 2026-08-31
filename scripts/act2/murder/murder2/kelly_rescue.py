@@ -3,6 +3,7 @@
 objective ( "murder_obj30",  "EOBJCMD_COMPLETE" )
 setEpilogue(3, 1 )
 waittimed ( 0.100 )
+awardXPToPlayable(5000 )
 sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
 createPopupDialogXml("dialogs/special/kelly_achievement" )
 waittimed ( 0.100 )

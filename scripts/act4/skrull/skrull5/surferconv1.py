@@ -5,6 +5,7 @@ if silversurfer == 0
     waittimed ( 0.100 )
     unlockCharacter("silversurfer", "" )
     waittimed ( 0.100 )
+    awardXPToPlayable(5000 )
     sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
     createPopupDialogXml("dialogs/special/surfer_achievement" )
     waittimed ( 0.100 )

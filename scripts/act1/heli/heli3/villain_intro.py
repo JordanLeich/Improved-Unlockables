@@ -34,6 +34,8 @@ isHere = isActorOnTeam("captainamerica" )
 DoomisHere = isActorOnTeam("doomdlc")
 if DoomisHere == 1
 	# ( "Play this conversation if doom is on the team" )
+    waittimed ( 0.100 )
+    awardXPToPlayable(5000 )
     sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
     createPopupDialogXml("dialogs/special/doomwinter_achievement" )
     waittimed ( 0.100 )

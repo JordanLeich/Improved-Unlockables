@@ -4,6 +4,7 @@ player = isActorOnTeam("drstrange" )
 if player == 1
      act("drstrange_door", "" )
      waittimed ( 0.500 )
+     awardXPToPlayable(5000 )
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/strangeroom_achievement" )
 else
