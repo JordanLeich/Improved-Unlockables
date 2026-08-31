@@ -1,0 +1,13 @@
+{
+    "dialog_def": {
+        "dialog": {
+            "autohide": true,
+            "cancancel": false,
+            "debounce": 0,
+            "help2": "$MENU_ACCEPT Continue",
+            "hidehud": false,
+            "hud": false,
+            "text": "Achievement Unlocked! Super Computer - Save the super computer."
+        }
+    }
+}
