@@ -110,8 +110,6 @@ else
                waittimed ( 0.100 )
                unlockCharacter("yelena", "" )
                waittimed ( 0.100 )
-               unlockCharacter("blackwidowv", "" )
-               waittimed ( 0.100 )
                unlockCharacter("Kate", "" )
                waittimed ( 0.100 )
                unlockCharacter("HumanTorch", "" )
