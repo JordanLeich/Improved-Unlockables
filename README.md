@@ -4,7 +4,7 @@ Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his
 
 --- IMPORTANT ---
 1. It is worth noting that this mod is compatible with OCP and 50/36 Roster hack mods. Naturally, with these mods installed, your game will automatically unlock all characters but this mod (Improved Unlockables) reverses that so that you can unlock many vanilla/modded characters through story progression.
-2. This mod is not compatible with Outsider's EXG mod.
+2. This mod is compatible with Outsider's EXG mod but its not recommended, the EXG compatible version will have less stability and unlocks.
 3. If you don't want your characters locked but still want unlockable achievements, use the unlock all characters cheat code.
 4. It is mandatory to have Cap, Thor, Spidey, and Wolverine in your roster or else this mod will not work.
 
