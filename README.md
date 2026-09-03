@@ -16,4 +16,4 @@ Improved Unlockables by: Rampage, Metal Venger1, lotomot0, ak2yny for all of his
 
 --- MOD ORGANIZER 2 INSTALL METHOD ---
 1. Open the Reset all unlocks file, then open the Achievement sound picker file if you want to change achievement sounds.
-2. Open the Mod Organizer 2 Install Method folder and Install the Improved Unlockables .rar file into MO2.
+2. Open the Mod Organizer 2 Version folder and Install the Improved-Unlockables.rar file into MO2.
