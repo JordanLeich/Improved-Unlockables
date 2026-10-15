@@ -9,6 +9,10 @@ if drills == 2
      sound (  "PLAY_SOUND", "common/game/achievement", "", "" )
      createPopupDialogXml("dialogs/special/skrulldrills_achievement" )
      waittimed ( 0.100 )
+     unlockCharacter("AirWalk", "" )
+     waittimed ( 0.100 )
+     unlockCharacter("Terrax", "" )
+     waittimed ( 0.100 )
      setEpilogue(9, 1 )
      startConversation("act4/skrull/skrull3/4_skrull3_030" )
 endif
